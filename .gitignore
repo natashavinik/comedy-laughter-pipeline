@@ -1,0 +1,25 @@
+# Virtual Environment
+venv/
+env/
+lib/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# IDE Configurations
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs and Environments
+*.log
+*.env
+
+# Large Media Files (Managed Separately)
+*.wav
+*.mp3
+*.dylib
+*.so
